@@ -10,3 +10,5 @@ Instructions:
 
 Example:
 ![alt text](https://raw.githubusercontent.com/adXerg/Another-Eden-Wiki-Tier-List-Adder-Sorter/master/ss.PNG)
+
+Download [here](https://github.com/adXerg/Another-Eden-Wiki-Tier-List-Adder-Sorter/releases/latest)
