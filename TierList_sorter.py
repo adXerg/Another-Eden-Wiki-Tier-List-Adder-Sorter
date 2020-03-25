@@ -35,7 +35,7 @@ def makeScript():
     set_text(resultBox,result)
 
 master = tk.Tk()
-master.title("Another Eden Wiki's Altema Tier List Adder/Sorter")
+master.title("Another Eden Wiki's Altema Tier List Adder/Sorter by adXerg")
 
 tk.Label(master, text='New lines to add:\n(Leave empty to sort only)', padx=10, pady=5).grid(row=0, column=0)
 newLinesInput = tk.Text(master, height=5, width=100)
