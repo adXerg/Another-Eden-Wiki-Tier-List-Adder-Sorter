@@ -4,11 +4,11 @@ This simple program will add and sort (by Grade first, then by Name alphabetical
 
 Instructions:
 1. In the 'New lines to add:' text box, input lines to be added separated by new line. (Leave empty if you only want to sort)
-2. In the 'Old page script:' text box, input ALL the previous table script (You can get this from the 'Edit' page).
+2. In the 'Old page script:' text box, input **ALL** the previous table script (You can get this from the 'Edit' page).
 3. Click on 'Submit' button
 4. Copy-Paste the new Table Script to the 'Edit' page
 
 Example:
 ![alt text](https://raw.githubusercontent.com/adXerg/Another-Eden-Wiki-Tier-List-Adder-Sorter/master/ss.PNG)
 
-Download [here](https://github.com/adXerg/Another-Eden-Wiki-Tier-List-Adder-Sorter/releases/latest)
+**Download [here](https://github.com/adXerg/Another-Eden-Wiki-Tier-List-Adder-Sorter/releases/latest)**.
