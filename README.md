@@ -10,7 +10,7 @@ Example:
   {{Tier list row|Shanie (Another Style)|AS|94|https://altema.jp/anaden/chara/750}}
   {{Tier list row|Gariyu (Another Style)|AS|93|https://altema.jp/anaden/chara/754}}
   ```
-2. In the 'Old page script:' text box, input **ALL** of the latest page script (You can get this from the 'Edit' page).
+2. In the 'Old page script:' text box, copy **ALL** of the latest page script (You can get this from the 'Edit' page).
 Example:
   ```
   <noinclude>{{Notice Tier List}}</noinclude>
