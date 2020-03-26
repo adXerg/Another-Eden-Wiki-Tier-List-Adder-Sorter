@@ -3,7 +3,7 @@ A simple python script to add/sort [Another Eden Wiki's Altema Tier List](https:
 This simple program will add and sort (by Grade first, then by Name alphabetically) automatically the script for the 'Edit' page.
 
 Instructions:
-1. In the 'New lines to add:' text box, input lines to be added separated by new line(Leave empty if you only want to sort). 
+1. In the 'New lines to add:' text box, input lines to be added separated by new line (Leave empty if you only want to sort).
 Example:
   ```
   {{Tier list row|Yuna (Another Style)|AS|97|https://altema.jp/anaden/chara/752|role=Healer}}
